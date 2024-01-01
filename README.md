@@ -10,7 +10,7 @@ Discord botu ile istediğiniz sunucuya tokenlerinizi gönderen sistem
 
 `OAuth2` kısmına tıklayın
 
-`Add Redirect` kısmına basıp `http://localhost:8080/oauth` ekleyin
+`Add Redirect` kısmına basıp `http://localhost:8080/oauth2` ekleyin
 
 `Client ID` ve `Client Secret` kopyalayın `config.json` doldurun
 
